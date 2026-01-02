@@ -4,10 +4,10 @@
 Chatbots drive apps in healthcare, finance, and beyond, but they falter on complex or adversarial questions, risking unreliable, biased, or unsafe responses. This undermines trust and can cause harm. Developers lack automated tools to systematically test reliability. ChatGuard uses AI to stress-test chatbots, delivering insights to ensure robust, safe performance.
 
 ## Team
-- [Your Name] – Lead Developer
-- [Team Member 2] – AI Model Specialist
-- [Team Member 3] – UI/UX Designer
-- [Team Member 4] – Data Engineer
+- [Gaurav Sharma] – Lead Developer
+- [Aalap Goswami] – AI Model Specialist
+- [Himanshu Singh Chouhan] – UI/UX Designer
+- [Amandeep Singh Rathore] – Data Engineer
 *Note: Update with actual names and roles.*
 
 ## Feasibility Plan
